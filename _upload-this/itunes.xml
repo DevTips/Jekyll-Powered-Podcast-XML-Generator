@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+    <title>My Podcast Title</title>
+    <link>http://www.travisneilson.com</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; , YourName </copyright>
+    <itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
+    <itunes:author>College, school, or department owning the podcast</itunes:author>
+    <itunes:summary>Verbose description of the podcast.</itunes:summary>
+    <description>Verbose description of the podcast.</description>
+
+    <itunes:owner>
+      <itunes:name>YourName</itunes:name>
+      <itunes:email>your@email.com</itunes:email>
+    </itunes:owner>``
+
+    <itunes:image href="http://wwww.YourSite.com/imageSize1400x1400-min.jpg" />
+
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>Shake Shake Shake Your Spices</title>
+      <itunes:subtitle>A short primer on table spices</itunes:subtitle>
+      <itunes:author>John Doe</itunes:author>
+      <itunes:summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</itunes:summary>
+      <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" />
+
+      <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/mpeg" />
+
+      <guid>http://example.com/podcasts/archive/aae20140615.m4a</guid>
+
+      <pubDate>Wed, 15 Jun 2014 19:00:00 GMT</pubDate>
+
+      <itunes:duration>424.0</itunes:duration>
+
+    </item>
+    
+  </rss>

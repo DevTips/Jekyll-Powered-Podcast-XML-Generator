@@ -1,0 +1,37 @@
+---
+
+title: Hello World!
+author: John Doe
+
+# For best results, choose a subtitle that is only a few words long.
+subtitle: My first podcast episode
+
+# This is the verbose show description, up to 4,000 char long
+summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Episode art - Min size 1400x1400, max size 3000x3000
+image: http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg
+
+
+
+# Global Unique ID, can be the episode url, or just a unique number that doesn't change
+guid: 001
+
+# The date must be “day-of-week, day month year”. The time must be in 24 hour format (no AM or PM) and must include the time zone offset.
+pubDate: Wed, 15 Jun 2014 19:00:00 GMT
+
+
+
+# This is your podcast episode file
+enclosureUrl: http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a
+
+# The length attribute is the file size in bytes. Find this information in the properties of your podcast file (on a Mac, choose Get Info from the File menu and refer to the size row).
+enclosureLength: 8727310
+
+# for available types, see https://www.apple.com/itunes/podcasts/specs.html
+enclosureType: audio/mpeg
+
+# HH:MM:SS,
+duration: 7:04
+
+---

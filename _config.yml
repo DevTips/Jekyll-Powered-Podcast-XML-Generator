@@ -1,0 +1,44 @@
+# Podcast General Settings
+# ------------------------------------------------------------------------
+
+# The homepage of your podcast
+podcastSite: http://www.travisneilson.com
+
+# The cover image for the podcast, will show in search results in iTunes
+podcastCoverImg: http://wwww.YourSite.com/imageSize1400x1400-min.jpg
+
+# The name of your podcast
+podcastTitle: My Podcast Title
+
+# About You. For iTunes admin. This information is not displayed on the iTunes Store.
+podcastOwner: YourName
+podcastEmail: your@email.com
+
+# See https://www.apple.com/itunes/podcasts/specs.html near the bottom for valid categories
+category: Education
+subCategory: Higher Education
+
+# is it too dangerous for the impressionable kiddos?
+podcastIsExplicit: "no"
+
+
+podcastAuthor: Org, brand or individual
+podcastDescription: Verbose description of the podcast.
+podcastSubtitle: Short description of the podcast - 255 character max.
+
+
+
+#                          ###
+
+
+
+# Don't edit below this line unless you know what you are doing.
+# ------------------------------------------------------------------------
+
+
+# Create a Jekyll collection to handle the episodes
+collections:
+- episodes
+
+# Identify a place to output the generated files
+destination: _upload-this
