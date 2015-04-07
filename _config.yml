@@ -42,3 +42,6 @@ collections:
 
 # Identify a place to output the generated files
 destination: _upload-this
+
+# Keep the readme out of the output folder
+exclude: ['readme.md']
