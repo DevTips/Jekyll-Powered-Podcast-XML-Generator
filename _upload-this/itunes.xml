@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&#x2117; &amp; &#xA9; , YourName </copyright>
     <itunes:subtitle>Short description of the podcast - 255 character max.</itunes:subtitle>
-    <itunes:author>College, school, or department owning the podcast</itunes:author>
+    <itunes:author>Org, brand or individual</itunes:author>
     <itunes:summary>Verbose description of the podcast.</itunes:summary>
     <description>Verbose description of the podcast.</description>
 
@@ -26,15 +26,15 @@
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>Shake Shake Shake Your Spices</title>
-      <itunes:subtitle>A short primer on table spices</itunes:subtitle>
+      <title>Hello World!</title>
+      <itunes:subtitle>My first podcast episode</itunes:subtitle>
       <itunes:author>John Doe</itunes:author>
       <itunes:summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</itunes:summary>
       <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" />
 
       <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/mpeg" />
 
-      <guid>http://example.com/podcasts/archive/aae20140615.m4a</guid>
+      <guid>1</guid>
 
       <pubDate>Wed, 15 Jun 2014 19:00:00 GMT</pubDate>
 
@@ -42,4 +42,5 @@
 
     </item>
     
-  </rss>
+  </channel>
+</rss>
