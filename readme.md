@@ -1,4 +1,4 @@
-# Jekyll Podcast Generator
+# Jekyll Powered Podcast XML Generator
 
 I wanted a clean way to organize my self-hosted podcast xml. Jekyll to the rescue!
 
